@@ -12,8 +12,8 @@ Books by Judea Pearl - As a pioneer of the field, one can get start with pearl's
 3. CAUSALITY: MODELS, REASONING,AND INFERENCE - This is a very detailed book from pearl, not just about statistical way of doing causal inference, but covers philosopy, more math, and also how the idea of causality (pearlian) evolved.
 
 For more applied use cases
-- Peters et al - Elements of Causal Inference ; More Practical and applied side of causality
-- Chernozhukov et al - https://causalml-book.org/ - Causal Machine Learning
+- Peters et al - Elements of Causal Inference ;
+- Chernozhukov et al - https://causalml-book.org/ - Causal Machine Learning - More Practical and applied side of causality
 
 For those who interested in Causality and Artificial Intelligence : 
 - Elias Bareinboim 's Causal Aritificial Intelligence book - https://drive.google.com/file/d/1Hqsszr6g4nLDq2fhcQ9WEwtn4OQy0byF/view
