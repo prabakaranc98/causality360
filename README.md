@@ -24,3 +24,7 @@ For those who interested in Causality and Artificial Intelligence :
 There are two other books I was using previously : - they conver python examples, 
 - Causal Inference and Discovery - Aleksandar Molak
 - Causal Inference in Python - Matheus Facure
+
+Few other books : 
+-Statistical Learning Perspective https://web.stanford.edu/~swager/causal_inf_book.pdf
+-Counterfactuals and Causal Inference https://www.cambridge.org/core/books/counterfactuals-and-causal-inference/5CC81E6DF63C5E5A8B88F79D45E1D1B7
