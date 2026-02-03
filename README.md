@@ -1,4 +1,8 @@
 # causality360
+
+# IMPT : Check out the Conceptual Mapping across major Texts on Causality : 
+https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSNTNnBCtDvAQhk0_l_4uauA6sc8zTQkJ5Qn4Z5Wg6CN-vHc-2J_E5bvu792FzMj7-Y1hE5_Rb_FPu6/pubhtml#gid=634497932
+
 all in causality - learnings from intro, theory, applications and research ; experiments to build better understanding/utilities
 
 
